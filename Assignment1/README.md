@@ -5,10 +5,10 @@ Ran a while loop to add the nonce until the hash was lesser than required target
 Found out time using the time library provided by python.
 
 
-Input: "iitk184519"
+Input: "iitk"
 
 Output: 
 
-        00000f35661373b56741994140e6a7c169d3af1611dee097ea20400f2d183115
-        16884
-        3.27744483948
+       ('hashed ', '00000bde24704b17d1531816354d01810b1e6f01b1ea38e0c53d5fc5f3bfd70a')
+        ('nonce ', 1217060)
+        ('time taken ', 1.8172569274902344)
