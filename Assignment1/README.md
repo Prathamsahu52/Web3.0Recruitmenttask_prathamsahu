@@ -6,6 +6,9 @@ Found out time using the time library provided by python.
 
 
 Input: "iitk184519"
+
 Output: 00000f35661373b56741994140e6a7c169d3af1611dee097ea20400f2d183115
+        
         16884
+        
         3.45900893211
