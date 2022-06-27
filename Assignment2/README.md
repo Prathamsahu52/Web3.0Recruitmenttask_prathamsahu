@@ -4,7 +4,7 @@ Implemented the ```mulDiv``` and ```getCompoundInterest``` fucntions from the re
 Modifier ```isOwner``` implemented to provide access of functions to owner only.
 
 
-#Using the Program
+# Using the Program
 
 Compile the code and deploy the loan contract from an owner account.
 The following functions are implemented:
